@@ -15,3 +15,4 @@ Email: 31030815@sun.ac.za
 name: Ovuzonye Samuel Ataribu
 Campus: tygerberg campus
 Faculty: Faculty of Medicine and Health Science 
+Programme:MSc Bioinformatics of Infectioud Diseases and Pathogen Genomics
