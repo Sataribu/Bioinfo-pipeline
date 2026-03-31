@@ -14,4 +14,4 @@ student ID: 31030815
 Email: 31030815@sun.ac.za
 name: Ovuzonye Samuel Ataribu
 Campus: tygerberg campus
-
+Faculty: Faculty of Medicine and Health Science 
