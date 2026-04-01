@@ -21,3 +21,7 @@ print("Quality check 7: Cleaning data")
 print("Quality check 8: Logging results")
 print("Quality check 9: Final validation")
 print("Quality check 10: Process complete")
+
+if validation<0{
+print{"hypothesis error}
+}
