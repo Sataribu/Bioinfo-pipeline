@@ -24,4 +24,8 @@ print("Quality check 10: Process complete")
 
 if validation<0{
 print{"hypothesis error}
+
+else validation>0{
+print{reject H0}
+
 }
